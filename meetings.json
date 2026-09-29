@@ -1,0 +1,137 @@
+[
+  {
+    "meeting_id": 1,
+    "date": "2026-09-20",
+    "contact": "Rahul",
+    "title": "Project Planning",
+    "participants": [
+      "Praveen",
+      "Rahul",
+      " Vembadi Siri Chandana"
+    ],
+    "discussion": [
+      "Project backend development",
+      "Login functionality",
+      "Database setup"
+    ],
+    "decisions": [
+      "Use MySQL for the project database",
+      "Complete login functionality before testing"
+    ],
+    "promises": [
+      {
+        "person": "Rahul",
+        "promise": "Complete login API",
+        "status": "Pending"
+      },
+      {
+        "person": "Vembadi Siri Chandana",
+        "promise": "Create database tables",
+        "status": "Completed"
+      }
+    ],
+    "follow_ups": [
+      {
+        "person": "Rahul",
+        "task": "Complete login API",
+        "status": "Pending"
+      },
+      {
+        "person": "Vembadi Siri Chandana",
+        "task": "Create database tables",
+        "status": "Completed"
+      }
+    ]
+  },
+  {
+    "meeting_id": 2,
+    "date": "2026-09-25",
+    "contact": "Rahul",
+    "title": "Project Progress Review",
+    "participants": [
+      "Praveen",
+      "Rahul",
+      "Vembadi Siri Chandana"
+    ],
+    "discussion": [
+      "Login API progress",
+      "Database progress",
+      "Testing"
+    ],
+    "decisions": [
+      "Login API must be completed before final testing"
+    ],
+    "promises": [
+      {
+        "person": "Rahul",
+        "promise": "Complete login API",
+        "status": "Still Pending"
+      }
+    ],
+    "follow_ups": [
+      {
+        "person": "Rahul",
+        "task": "Complete login API",
+        "status": "Missed"
+      }
+    ]
+  },
+  {
+    "meeting_id": 3,
+    "date": "2026-09-29",
+    "contact": " Vembadi Siri Chandana",
+    "title": "reportt",
+    "participants": [
+      " Vembadi Siri Chandana"
+    ],
+    "discussion": [
+      "Final testing preparation"
+    ],
+    "decisions": [
+      "nothing"
+    ],
+    "promises": [
+      {
+        "person": " Vembadi Siri Chandana",
+        "promise": "no",
+        "status": "Pending"
+      }
+    ],
+    "follow_ups": [
+      {
+        "person": " Vembadi Siri Chandana",
+        "task": "no",
+        "status": "Pending"
+      }
+    ]
+  },
+  {
+    "meeting_id": 4,
+    "date": "2026-09-29",
+    "contact": " Vembadi Siri Chandana",
+    "title": "project front end report",
+    "participants": [
+      " Vembadi Siri Chandana"
+    ],
+    "discussion": [
+      "normal discussion"
+    ],
+    "decisions": [
+      "fornt end connectivity"
+    ],
+    "promises": [
+      {
+        "person": " Vembadi Siri Chandana",
+        "promise": "change UI",
+        "status": "Pending"
+      }
+    ],
+    "follow_ups": [
+      {
+        "person": " Vembadi Siri Chandana",
+        "task": "-",
+        "status": "Pending"
+      }
+    ]
+  }
+]
